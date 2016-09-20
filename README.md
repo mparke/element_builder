@@ -1,2 +1,2 @@
 # element_builder.js
-a chainable element builder 
+a experimental project - chainable element builder 
